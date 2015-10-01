@@ -10,6 +10,6 @@ namespace ConsoleAppTestLabo2
     {
         public string Siege { get; set; }
         public string Localite { get; set; }
-
+        public int test { get; set; }
     }
 }
